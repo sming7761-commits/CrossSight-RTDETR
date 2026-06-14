@@ -3,6 +3,7 @@
 # CrossSight-RTDETR
 
 ### Input-Space Visibility and Scale-Aware Localisation for Multi-Domain Compact Small Object Detection
+> **Manuscript status:** This repository is the official implementation associated with the manuscript “Input-Space Visibility and Scale-Aware Localisation for Multi-Domain Compact Small Object Detection,” submitted to *The Visual Computer*. The repository will be updated during revision, and final trained checkpoints and reproducibility metadata will be archived through a tagged release before publication.
 
 [![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.2.2-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
