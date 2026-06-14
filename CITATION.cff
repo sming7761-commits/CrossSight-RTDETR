@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated CrossSight-RTDETR manuscript and this repository."
+title: "CrossSight-RTDETR"
+type: software
+authors:
+  - family-names: "Sun"
+    given-names: "Yiming"
+  - family-names: "Wang"
+    given-names: "Chunyan"
+repository-code: "https://github.com/sming7761-commits/CrossSight-RTDETR"
+url: "https://github.com/sming7761-commits/CrossSight-RTDETR"
+license: MIT
+version: 0.1.0
+abstract: "A visibility-centred RT-DETR framework for multi-domain compact small object detection using input-space local observation, detail-aware feature enhancement, and scale-aware localisation supervision."
+keywords:
+  - small object detection
+  - RT-DETR
+  - object detection
+  - input-space visibility
+  - UAV imagery
+  - computer vision
